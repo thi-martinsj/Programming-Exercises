@@ -1,5 +1,5 @@
 <h1>Programming-Exercises</h1>
-<p>Collection of solving exercises from Beecrowd (URI), CodeSignal, and LeetCode platforms.</p>
+<p>Collection of solving exercises from Beecrowd (URI), CodeSignal, LeetCode, and Hacker Rank platforms.</p>
 <hr/>
 <div>
     <h1>Beecrowd (URI)</h1>
@@ -83,4 +83,23 @@
             <li></li>
         </ul>
     </div>
+</div>
+<hr/>
+<div>
+    <h1>HackerRank</h1>
+    <table>
+        <tr>
+            <th></th>
+            <th>Algorithms</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Easy</th>
+            <th>Medium</th>
+            <th>Hard</th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/diagonal_difference.py">Diagonal Difference</a></td>
+        </tr>
+    </table>
 </div>
