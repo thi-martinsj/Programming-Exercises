@@ -100,6 +100,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/between_two_sets.py">Between Two Sets</a></td>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/medium/forming_a_magic_square.py">Forming a Magic Square</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/diagonal_difference.py">Diagonal Difference</a></td>
