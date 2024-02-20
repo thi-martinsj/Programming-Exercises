@@ -105,5 +105,8 @@
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/diagonal_difference.py">Diagonal Difference</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/number_line_jumps.py">Number Line Jumps</a></td>
+        </tr>
     </table>
 </div>
