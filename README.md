@@ -108,5 +108,8 @@
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/number_line_jumps.py">Number Line Jumps</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/breaking_the_records.py">Breaking the Records</a></td>
+        </tr>
     </table>
 </div>
