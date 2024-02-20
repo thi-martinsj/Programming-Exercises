@@ -111,5 +111,8 @@
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/breaking_the_records.py">Breaking the Records</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/subarray_division.py">Subarray Division</a></td>
+        </tr>
     </table>
 </div>
