@@ -114,5 +114,8 @@
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/subarray_division.py">Subarray Division</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/hacker-rank/algorithms/easy/divisible_sum_pairs.py">Divisible Sum Pairs</a></td>
+        </tr>
     </table>
 </div>
