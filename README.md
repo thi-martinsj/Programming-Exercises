@@ -92,6 +92,9 @@
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/merge_sorted_array.py">Merge Sorted Array</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/remove_element.py">Remove Element</a></td>
+        </tr>
     </table>
 </div>
 <hr/>
