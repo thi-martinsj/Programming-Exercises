@@ -78,11 +78,21 @@
 <hr/>
 <div>
     <h1>LeedCode</h1>
-    <div style="margin-left: 30px;">
-        <ul>
-            <li></li>
-        </ul>
-    </div>
+    <table>
+        <tr>
+            <th></th>
+            <th>Array</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Easy</th>
+            <th>Medium</th>
+            <th>Hard</th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/merge_sorted_array.py">Merge Sorted Array</a></td>
+        </tr>
+    </table>
 </div>
 <hr/>
 <div>
