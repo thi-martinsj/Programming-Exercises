@@ -95,6 +95,9 @@
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/remove_element.py">Remove Element</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/remove_duplicates_from_sorted_array.py">Remove Duplicates From Sorted Array</a></td>
+        </tr>
     </table>
 </div>
 <hr/>
