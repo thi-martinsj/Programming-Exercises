@@ -103,6 +103,9 @@
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/majority_element.py">Majority Element</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/best_time_to_buy_and_sell.py">Best Time to Buy and Sell</a></td>
+        </tr>
     </table>
 </div>
 <hr/>
