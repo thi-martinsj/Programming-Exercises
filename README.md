@@ -99,6 +99,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/remove_duplicates_from_sorted_array.py">Remove Duplicates From Sorted Array</a></td>
+            <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/medium/best_time_to_buy_and_sell_2.py">Best Time to Buy and Sell II</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ThiMJ/Programming-Exercises/blob/main/leet-code/array/easy/majority_element.py">Majority Element</a></td>
